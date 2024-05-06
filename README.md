@@ -36,7 +36,7 @@
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,dotnet,php"/>
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,mysql,sqlite"/>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cs,mysql,sqlite"/>
     </div>
 </div>
 
