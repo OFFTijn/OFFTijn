@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🔭 Momenteel werk ik aan **een Security opdracht!**
+🔭 Momenteel werk ik aan **een DevOps project!**
  
 🌱 Ik volg HBO-ICT op **Zuyd Hogeschool, Heerlen**
 
