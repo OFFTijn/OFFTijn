@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=15F338&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tijn+Mestrom!;" />
 </h1>
 
-<h3 align="center">HBO-ICT Student uit Nederland 🇳🇱</h3>
+<h3 align="center">HBOO-ICT Student uit Nederland 🇳🇱</h3>
 
 <br/>
 
