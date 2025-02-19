@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🔭 Momenteel werk ik aan **een DevOps project!**
+🔭 Momenteel werk ik aan **Het Visualiseren van Financiële Data!**
  
 🌱 Ik volg HBO-ICT op **Zuyd Hogeschool, Heerlen**
 
